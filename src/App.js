@@ -1,9 +1,8 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
-function App() {
-  return (
+const App = () => {
+  return(
     <div className="App">
       <h1>Hello, React!</h1>
     </div>
