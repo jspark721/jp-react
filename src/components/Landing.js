@@ -1,5 +1,6 @@
 import React from 'react';
 import './Landing.scss';
+import anime from './anime.es.js';
 
 const Landing = () => {
   return (
