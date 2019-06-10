@@ -1,10 +1,11 @@
 import React from 'react';
-import './App.css';
+import Landing from './components/Landing';
+import './index.scss';
 
 const App = () => {
   return(
     <div className="App">
-      <h1>Hello, React!</h1>
+      <Landing />
     </div>
   );
 }
