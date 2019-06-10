@@ -1,0 +1,18 @@
+/*color variables*/
+$white: #ffffff;
+$primary: #F2DAD7;
+$secondary: #D1A39E;
+$light: #CECDCA;
+$dark: #474545;
+
+/*font variables*/
+@import url('https://fonts.googleapis.com/css?family=Inconsolata|Merriweather');
+
+$body: 'Inconsolata', monospace;
+$big: 'Merriweather', serif;
+
+body {
+  background-color: $primary;
+  font-family: $body;
+  color: $dark;
+}
